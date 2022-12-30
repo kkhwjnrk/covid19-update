@@ -19,7 +19,7 @@ const main = () => {
     const showMessage = (message) => {
         Swal.fire(
             'Oops...',
-            'Tidak ada koneksi internet!',
+            'Data tidak ditemukan!',
             'warning'
         )
     };
